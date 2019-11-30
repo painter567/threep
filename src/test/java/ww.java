@@ -8,6 +8,7 @@ public class ww {
         ee ee=new ee();
         ee.sout();
         ee.sout();
+        ee.sout();
     }
 
 
