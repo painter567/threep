@@ -7,6 +7,7 @@ public class ww {
     public void main(){
         ee ee=new ee();
         ee.sout();
+        ee.sout();
     }
 
 
